@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Programming Notes</title>
-        <link>https://allenyl30.github.io/</link>
+        <link>https://allenyl30.github.io/hugo-blog/</link>
         <description>Recent content on Programming Notes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuhao</copyright>
-        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://allenyl30.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://allenyl30.github.io/hugo-blog/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://allenyl30.github.io/about/</link>
+        <link>https://allenyl30.github.io/hugo-blog/about/</link>
         <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://allenyl30.github.io/about/</guid>
+        <guid>https://allenyl30.github.io/hugo-blog/about/</guid>
         <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
@@ -37,11 +37,11 @@
         </item>
         <item>
         <title>How to Start A Blog in 2024</title>
-        <link>https://allenyl30.github.io/p/how-to-start-a-blog-in-2024/</link>
+        <link>https://allenyl30.github.io/hugo-blog/p/how-to-start-a-blog-in-2024/</link>
         <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://allenyl30.github.io/p/how-to-start-a-blog-in-2024/</guid>
-        <description>&lt;img src="https://allenyl30.github.io/p/how-to-start-a-blog-in-2024/cover.jpg" alt="Featured image of post How to Start A Blog in 2024" /&gt;&lt;h1 id=&#34;hugogithub-action-deploy-your-own-blog&#34;&gt;HUGO+GitHub Action deploy your own Blog
+        <guid>https://allenyl30.github.io/hugo-blog/p/how-to-start-a-blog-in-2024/</guid>
+        <description>&lt;img src="https://allenyl30.github.io/hugo-blog/p/how-to-start-a-blog-in-2024/cover.jpg" alt="Featured image of post How to Start A Blog in 2024" /&gt;&lt;h1 id=&#34;hugogithub-action-deploy-your-own-blog&#34;&gt;HUGO+GitHub Action deploy your own Blog
 &lt;/h1&gt;&lt;h1 id=&#34;prerequisites&#34;&gt;Prerequisites
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Install Hugo (Extended version) in macos&lt;/li&gt;
@@ -263,21 +263,21 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://allenyl30.github.io/archives/</link>
+        <link>https://allenyl30.github.io/hugo-blog/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://allenyl30.github.io/archives/</guid>
+        <guid>https://allenyl30.github.io/hugo-blog/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>redis test</title>
-        <link>https://allenyl30.github.io/p/redis-test/</link>
+        <link>https://allenyl30.github.io/hugo-blog/p/redis-test/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://allenyl30.github.io/p/redis-test/</guid>
+        <guid>https://allenyl30.github.io/hugo-blog/p/redis-test/</guid>
         <description>&lt;h1 id=&#34;dotnet&#34;&gt;Dotnet
 &lt;/h1&gt;&lt;h1 id=&#34;async-await&#34;&gt;async await:
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image.png&#34;
 	
 	
 	
@@ -287,7 +287,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%201.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%201.png&#34;
 	
 	
 	
@@ -301,7 +301,7 @@
 &lt;p&gt;接口不要声明 async&lt;/p&gt;
 &lt;h1 id=&#34;linq-扩展方法实现了-i&#34;&gt;LINQ 扩展方法(实现了 I)
 &lt;/h1&gt;&lt;h1 id=&#34;依赖注入&#34;&gt;依赖注入
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%202.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%202.png&#34;
 	
 	
 	
@@ -320,7 +320,7 @@
 单例:无论谁获取这个服务都是这个对象&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.notion.so/1312db5da48880468938ed2b99e99df3?pvs=21&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;配置&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%203.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%203.png&#34;
 	
 	
 	
@@ -331,7 +331,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;iqueryable-和-ienumerable-的区别&#34;&gt;IQueryable 和 IEnumerable 的区别
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%204.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%204.png&#34;
 	
 	
 	
@@ -343,7 +343,7 @@
 &gt;&lt;/p&gt;
 &lt;p&gt;IENUMBERABLE is executed in the local memory, the other one is complied into the SQL script and executed in the databased server.&lt;/p&gt;
 &lt;p&gt;so when the number of the query is large, we need to use the Iqueryable because the server tend to have better performance than the local machine&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%205.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%205.png&#34;
 	
 	
 	
@@ -354,7 +354,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;how-to-traverse-the-iqueryable-async&#34;&gt;how to traverse the IQUERYABLE async
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%206.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%206.png&#34;
 	
 	
 	
@@ -365,7 +365,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h1 id=&#34;upsettingjson配置文件&#34;&gt;upsetting.json,配置文件
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%207.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%207.png&#34;
 	
 	
 	
@@ -376,7 +376,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;p&gt;function reload 之后进行热重载&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%208.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%208.png&#34;
 	
 	
 	
@@ -387,7 +387,7 @@
 	
 &gt;&lt;/p&gt;
 &lt;h3 id=&#34;使用-configuration-映射配置类&#34;&gt;使用 configuration 映射配置类
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/image%209.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://allenyl30.github.io/hugo-blog/hugo-blog/image%209.png&#34;
 	
 	
 	
@@ -475,10 +475,10 @@ Optimized for server-side applications like ASP.NET Core and WCF, this variant o
         </item>
         <item>
         <title>Links</title>
-        <link>https://allenyl30.github.io/links/</link>
+        <link>https://allenyl30.github.io/hugo-blog/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://allenyl30.github.io/links/</guid>
+        <guid>https://allenyl30.github.io/hugo-blog/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -510,10 +510,10 @@ Optimized for server-side applications like ASP.NET Core and WCF, this variant o
         </item>
         <item>
         <title>Search</title>
-        <link>https://allenyl30.github.io/search/</link>
+        <link>https://allenyl30.github.io/hugo-blog/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://allenyl30.github.io/search/</guid>
+        <guid>https://allenyl30.github.io/hugo-blog/search/</guid>
         <description></description>
         </item>
         

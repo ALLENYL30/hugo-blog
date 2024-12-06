@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Practices on Programming Notes</title>
-        <link>https://allenyl30.github.io/categories/practices/</link>
+        <link>https://allenyl30.github.io/hugo-blog/categories/practices/</link>
         <description>Recent content in Practices on Programming Notes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>Yuhao</copyright>
-        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://allenyl30.github.io/categories/practices/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://allenyl30.github.io/hugo-blog/categories/practices/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>How to Start A Blog in 2024</title>
-        <link>https://allenyl30.github.io/p/how-to-start-a-blog-in-2024/</link>
+        <link>https://allenyl30.github.io/hugo-blog/p/how-to-start-a-blog-in-2024/</link>
         <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://allenyl30.github.io/p/how-to-start-a-blog-in-2024/</guid>
-        <description>&lt;img src="https://allenyl30.github.io/p/how-to-start-a-blog-in-2024/cover.jpg" alt="Featured image of post How to Start A Blog in 2024" /&gt;&lt;h1 id=&#34;hugogithub-action-deploy-your-own-blog&#34;&gt;HUGO+GitHub Action deploy your own Blog
+        <guid>https://allenyl30.github.io/hugo-blog/p/how-to-start-a-blog-in-2024/</guid>
+        <description>&lt;img src="https://allenyl30.github.io/hugo-blog/p/how-to-start-a-blog-in-2024/cover.jpg" alt="Featured image of post How to Start A Blog in 2024" /&gt;&lt;h1 id=&#34;hugogithub-action-deploy-your-own-blog&#34;&gt;HUGO+GitHub Action deploy your own Blog
 &lt;/h1&gt;&lt;h1 id=&#34;prerequisites&#34;&gt;Prerequisites
 &lt;/h1&gt;&lt;ul&gt;
 &lt;li&gt;Install Hugo (Extended version) in macos&lt;/li&gt;
